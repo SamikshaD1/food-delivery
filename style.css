@@ -1,0 +1,81 @@
+.alpha{
+    width: 21px;
+    height: 28px;
+    background-color:#F94A3D;
+    color: #FFF;
+font-family: Poppins;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 100% */
+margin-right: 10PX;
+border-radius: 5px;
+}
+.Fdelevery{
+    color: var(--food-delivery-orange-color, #F94A3D);
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 93.333% */
+letter-spacing: -0.3px;
+}
+.hea{
+    display: flex;
+}
+.location{
+    display:flex;
+    justify-content: between;
+    gap: 10px;
+}
+.icon>svg{
+    width: 16.304px;
+height: 18.478px;
+flex-shrink: 0;
+
+}
+.sign{
+    height: 48px;
+    width: 52px;
+    color: var(--food-delivery-white-color, #FFF);
+font-family: Poppins;
+font-size: px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+footer{
+    width: 1920px;
+height: 410px;
+flex-shrink: 0;
+}
+.nav-text {
+    width: 289px;
+    color: var(--food-delivery-p, #69697B);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    /* 175% */
+    letter-spacing: -0.16px;
+}
+.faster{
+    color: var(--food-delivery-orange-color, #F94A3D);
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 88.889% */
+}
